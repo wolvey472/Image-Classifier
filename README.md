@@ -10,7 +10,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carson-shae-4a759b3b1)
 
 
-
 ## The model is trained on the fashion mnist data set from Tensor Flow:
 https://www.tensorflow.org/datasets/catalog/fashion_mnist
 
