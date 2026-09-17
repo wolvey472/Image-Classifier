@@ -13,7 +13,7 @@
 ## The model is trained on the fashion mnist data set from Tensor Flow:
 https://www.tensorflow.org/datasets/catalog/fashion_mnist
 
-###Side Note:
+### Side Note:
 This is my first ever Machine Learning project --> i'm 16 years old no expectations of perfec implementation or optimization just a kid whose intrested in ML :)
 
 ## Training
